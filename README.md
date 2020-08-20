@@ -17,6 +17,9 @@
 
 - 📫 How to reach me **vikasdhiman835@gmail.com**
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasdhiman0635&layout=compact&hide=html&theme=radical" alt="vikasdhiman0635" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikasdhiman0635&show_icons=true&theme=radical" alt="vikasdhiman0635" />
 
 <p align="center">
 </a>
