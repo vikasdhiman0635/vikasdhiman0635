@@ -2,7 +2,9 @@
 <h3 align="center">|🎓 Student | 🧑‍💻Full-Stack Developer |</h3>
 
 <br>
-- 🌱 I’m currently working **Angular & Spring Boot**
+- 🌱 I am currently working **Angular & Spring Boot**
+
+- 💡  I am currently learning **Wix**
 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/vikasdhiman0635?tab=repositories)
 
