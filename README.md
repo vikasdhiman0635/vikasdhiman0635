@@ -1,5 +1,5 @@
 <h1 align="center">Hey world 👋, It's Vikas Dhiman Here</h1>
-<h3 align="center">|🎓 Student |</h3>
+<h3 align="center">|🎓 Student | 🧑‍💻Full-Stack Developer |</h3>
 
 <br>
 <!--
