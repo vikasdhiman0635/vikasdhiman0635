@@ -4,8 +4,6 @@
 <br>
 - 🌱 I am currently working **Angular & Spring Boot**
 
-- 💡  I am currently learning **Wix**
-
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/vikasdhiman0635?tab=repositories)
 
 - 💬 Ask me about **Anglar 8/9/10, Spring Boot & Hibernate, SQL, Java, Firebase**
