@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/vikas-dhiman-a19a8018b/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshcasper" height="30" width="30" />
 </a>
-<!--<a href="https://www.kaggle.com/tanujdhiman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="harshcasper" height="30" width="30" /></a>-->
+
 <a href="https://www.instagram.com/vikasdhiman8/?hl=en" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harshcasper" height="30" width="30" />
 </a>
